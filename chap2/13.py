@@ -16,4 +16,4 @@ with open('merge.txt', 'w') as out_file, \
 # 改行があるので　文字列を結合する際に末尾を消す
 
 ## pasteコマンド
-#
+#ファイルを水平方向に
